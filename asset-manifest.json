@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/shopping/static/css/main.f74def6a.css",
-    "main.js": "/github.io/shopping/static/js/main.1925ada7.js",
-    "static/js/787.f2dba37b.chunk.js": "/github.io/shopping/static/js/787.f2dba37b.chunk.js",
-    "static/media/banner22.jpg": "/github.io/shopping/static/media/banner22.decb367f2dda8b1eaa66.jpg",
-    "static/media/banner.jpg": "/github.io/shopping/static/media/banner.4cc17e716ee8e7993176.jpg",
-    "index.html": "/github.io/shopping/index.html",
-    "main.f74def6a.css.map": "/github.io/shopping/static/css/main.f74def6a.css.map",
-    "main.1925ada7.js.map": "/github.io/shopping/static/js/main.1925ada7.js.map",
-    "787.f2dba37b.chunk.js.map": "/github.io/shopping/static/js/787.f2dba37b.chunk.js.map"
+    "main.css": "/RuqayyaAkhtar/shopping/static/css/main.98a5fc2b.css",
+    "main.js": "/RuqayyaAkhtar/shopping/static/js/main.71b8c9c3.js",
+    "static/js/787.f2dba37b.chunk.js": "/RuqayyaAkhtar/shopping/static/js/787.f2dba37b.chunk.js",
+    "static/media/banner22.jpg": "/RuqayyaAkhtar/shopping/static/media/banner22.decb367f2dda8b1eaa66.jpg",
+    "static/media/banner.jpg": "/RuqayyaAkhtar/shopping/static/media/banner.4cc17e716ee8e7993176.jpg",
+    "index.html": "/RuqayyaAkhtar/shopping/index.html",
+    "main.98a5fc2b.css.map": "/RuqayyaAkhtar/shopping/static/css/main.98a5fc2b.css.map",
+    "main.71b8c9c3.js.map": "/RuqayyaAkhtar/shopping/static/js/main.71b8c9c3.js.map",
+    "787.f2dba37b.chunk.js.map": "/RuqayyaAkhtar/shopping/static/js/787.f2dba37b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f74def6a.css",
-    "static/js/main.1925ada7.js"
+    "static/css/main.98a5fc2b.css",
+    "static/js/main.71b8c9c3.js"
   ]
 }
