@@ -1,0 +1,1 @@
+export const DELCART_USER='DELCART_USER';
